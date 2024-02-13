@@ -11,7 +11,7 @@
         /// <exception cref="NotImplementedException"></exception>
         public static int Add(int summand, int addend)
         {
-            throw new NotImplementedException();
+            return summand + addend;
         }
     }
 }
